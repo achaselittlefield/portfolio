@@ -6,10 +6,10 @@ function App() {
       <header>
         <h3>Austin Littlefield</h3>
         <nav>
-          <a>github link</a>
-          <a>Linkdeln link</a>
-          <a>Twitter link</a>
-          <a>Contact me!</a>
+          <a href="https://github.com/achaselittlefield?tab=repositories">github link</a>
+          <a href="https://github.com/achaselittlefield?tab=repositories">Linkdeln link</a>
+          <a href="https://github.com/achaselittlefield?tab=repositories">Twitter link</a>
+          <a href="https://github.com/achaselittlefield?tab=repositories">Contact me!</a>
           </nav>
       </header>
       <section>
